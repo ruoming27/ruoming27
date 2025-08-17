@@ -17,6 +17,12 @@ I’m currently developing a **Test Case Generator**, an AI-powered application 
 
 ## 🌱 Projects
 
+### 🤖 AI Test Cases Generator
+An **AI-powered Streamlit application** that generates structured test cases directly from software requirements.  
+- [Live Demo](https://ai-testcases-generator-aw.streamlit.app/)  
+- [Source Code](https://github.com/ruoming27/ai-testcases-generator)  
+- **Tech Stack:** Python, Streamlit, OpenAI API, PostgreSQL, Docker  
+
 ### 🎮 Tetris Game (JavaScript)
 Classic Tetris implementation with clean game logic and keyboard controls.  
 - [Source Code (JS)](https://github.com/ruoming27/tetrisgame)  
@@ -66,17 +72,3 @@ Automated UI tests for web applications using **Python**, **Playwright**, and **
 - GitHub: [https://github.com/ruoming27](https://github.com/ruoming27)  
 - Email: <wangruoming@hotmail.com>
 
-<!--
-**ruoming27/ruoming27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
